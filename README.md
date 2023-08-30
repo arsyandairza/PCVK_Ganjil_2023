@@ -1,2 +1,2 @@
 # PCVK_Ganjil_2023
-Project PCVK Ganjil
+Berisi Project Project untuk praktikum mata kuliah PCVK Ganjil 22/23 JTI Polinema
